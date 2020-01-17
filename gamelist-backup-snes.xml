@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./EarthBound.zip</path>
+    <name>EarthBound</name>
+    <desc>In the year 199X, in the village of Onett, on the continent of Eagleland...
+
+Young Ness was asleep one night when a loud crashing noise awoke him suddenly. As he rushes out of bed and up to a nearby hill, he encounters a strange meteor, carrying a single passenger: a mysterious insect-like being named Buzz Buzz. Buzz Buzz tells him that in the future, an evil alien being known as Giygas has conquered the world, and the only one who can stop him are 4 young kids: 3 boys and a girl. Ness, of course, is one of the chosen ones... Ness now must find the other three children: Paula, a young girl with remarkable psychic powers, Jeff, a mechanical genius, and Poo, the young Prince of Dahlaam. Together, these four friends have the power to defeat Giygas and save the world from his chaotic reign!
+
+EarthBound is a top-down RPG where you travel around Eagleland and various other, exotic countries, trying to end Giygas' evil influence. 
+
+On the way, Ness and his friends will encounter a lot of enemies and battle them in turn-based combat. Each turn, each of the characters in the party can attack with their weapon, use a special ability (some characters have powerful psychic powers that can hurt enemies, heal comrades and more; some also have some other, unique special powers), use an item or try and escape. The game features &amp;quot;rolling HP meters&amp;quot; - when a character is dealt damage, it's not all taken away from his HP right away, but instead his HP decreases slowly; if the combat is ended quickly, even a massively damaging attack can leave a character with only minor injuries. By winning battles, characters receive experience and thus become stronger. 
+
+If your characters are strong enough, weak enemies will escape from them instead of trying to attack them, and when chased down, they will be defeated instantly! 
+
+Saving the game is done by finding a telephone and calling Ness' father. When you defeat enemies, your bank account receives money which can be then retrieved from ATM machines throughout the game and spent in shops to buy better equipment or useful items.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/EarthBound-image.png</image>
+    <rating>0.85</rating>
+    <releasedate>19950601T000000</releasedate>
+    <developer>Ape Studios</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games</genre>
+  </game>
+  <game>
+    <path>./F-Zero.zip</path>
+    <name>F-Zero</name>
+    <desc>F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+
+In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps. 
+
+The hovercar has a limited Power meter, which represents the machine's health and decreases when the hovercar collides with the track boundaries and other players. If power runs out, the hovercar explodes and the player loses the race. There are repair areas near the start line, which restore power to the player's hovercar if he drives into them. The tracks contain many more or less dangerous traps, such as icefields or landmines. 
+
+Completing a lap awards the player a "Super Jet" which can be activated at any time to give a short speed boost. The hovercar can keep up to three Super Jets and use them when necessary. 
+
+Completing a lap also gives points, which give the player a life when enough are accumulated. The player can lose a life in the Grand Prix mode if his hovercar explodes, if his hovercar somehow falls out of the track or if he ends up too far behind the other racers.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/F-Zero-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19901121T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Race, Driving</genre>
+  </game>
+  <game>
+    <path>./Final Fantasy III.zip</path>
+    <name>Final Fantasy III</name>
+    <desc>This is the sixth entry in the  Final Fantasy series. It was called Final Fantasy III because three of the five previous installments of the series were never released outside of Japan.
+
+1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic".
+
+But then...something happened that would change the course of history forever...
+
+The Empire had heard word of the remains of a mystical being, known as an "Esper", being found in the mining town of Narshe. Quickly, three soldiers were dispatched to find this Esper and bring it to the Emperor. One of the soldiers, a young girl, triggers a power in the Esper that will begin one of the most dangerous series of events ever. And the only ones who can help her are a rag-tag band of rebels and heroes, whose very hearts and souls are the only ones that can save the world from the mad plans of the Empire.
+
+The game maintains the ATB (active time battle) system of the two previous  Final Fantasy games, spicing classic turn-based combat engine with a real-time element. The customization system combines character-specific classes with free-flowing character development. By finding various Espers and equipping them on characters, you can improve their parameters in different ways and choose the magic spells you want to learn for each character.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Final Fantasy III-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19941011T000000</releasedate>
+    <developer>Square</developer>
+    <publisher>Square</publisher>
+    <genre>Role playing games</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Kirby Super Star.zip</path>
+    <name>Kirby Super Star</name>
+    <desc>"Kirby Super Star" is another platformer in the Kirby series, distinguished for having an unusually versatile character, who can fly and gain the abilities of his foes.
+
+The game is actually a set of seven main games: Spring Breeze, Dynablade, Gourmet Race, The Great Cave Offensive are unlocked at first, and later Metaknight's Revenge, Milky Way Wishes and The Arena become available, as well as a couple of minor minigames.
+
+These are all typical Kirby platformers, each one with its own set of levels and different gameplay. In most of them you can consume monsters and learn their special abilities, but in Milky Way Wishes abilities are instead collected in a manner similar to Metroid. Offensive Cave features levels with various obstacles, hidden treasures and some elementary lever-pulling kind of puzzle solving. Metaknight's Revenge is the only game on the cartridge with a (fairly strict) timer.  The Arena is a "boss rush" mode, asking players to defeat every boss in the game with limited health refills and on one life.
+
+Kirby Super Star is best known for its two-player cooperative play option, which has given it a reputation as a party game.
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Kirby Super Star-image.png</image>
+    <rating>0.95</rating>
+    <releasedate>19960920T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Legend of Zelda - A Link to the Past, The.zip</path>
+    <name>The Legend of Zelda : A Link to the Past</name>
+    <desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Legend of Zelda - A Link to the Past, The-image.png</image>
+    <rating>1</rating>
+    <releasedate>19920413T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Adventure</genre>
+  </game>
+  <game>
+    <path>./Mega Man X.zip</path>
+    <name>Mega Man X</name>
+    <desc>Mega Man X is a robot designed by Dr. Light to choose his own path in life. Years after he is created, Dr. Cain finds X and mimics his design to create a race of such robots called reploids. When the sigma virus infects these reploids, causing them to commit acts of evil, it is up to Mega Man X and his partner Zero (who is quite powerful, contrary to what his name implies) to stop it.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Mega Man X-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19940118T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform</genre>
+  </game>
+  <game>
+    <path>./Secret of Mana.zip</path>
+    <name>Secret of Mana</name>
+    <desc>Once upon a time, the power of Mana was used by all people and helped their civilization grow. But as evil forces took control of Mana Fortress, there was no way out but a war which destroyed the Mana-based civilization but eventually brought peace to people. The events of the past became but legends to the new generation of humans. But history repeats itself... One day, a young village boy finds a rusty sword stuck at the bottom of a river. He doesn't know this sword is the famous Mana sword, the one that won so many battles before. By drawing the sword out of the river bottom, the boy unwillingly summons hordes of monsters, and is expelled from his village. A mysterious knight Jema is the only man who helps him and gives him instructions for the future. First, he must repair the sword, and then, with its help, take control of Mana seeds which can be found in eight great castles.
+
+"Secret of Mana" is an action RPG, featuring real-time hack-and-slash type of a combat. Like in Quest for Glory games, you have a stamina gauge. The more stamina you have, the more powerful your strike is. You upgrade your weapons and abilities and meet many different types of monsters, while roaming around the country and performing your quests.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Secret of Mana-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19931003T000000</releasedate>
+    <developer>Square Enix</developer>
+    <publisher>Square Enix</publisher>
+    <genre>Role playing games</genre>
+    <players>1-3</players>
+  </game>
+  <game>
+    <path>./Star Fox.zip</path>
+    <name>Star Fox</name>
+    <desc>This is the first SNES title using the Super FX chip; you are flying ace Fox McCloud, who with his trusted wingmen and his powerful Arwing starfighter, must rid the Lylat System of the evil that surrounds it. Wave after wave of enemies will fly towards you, and with the advice of your wingmen, you must guide your way through each level and take down as many as you can.
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Star Fox-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19930301T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Shoot'em Up</genre>
+  </game>
+  <game>
+    <path>./Star Fox 2 (SNES Classic Version).zip</path>
+    <name>Star Fox 2</name>
+    <desc>After his defeat in the original Star Fox, the game's antagonist, Andross, returns to the Lylat system and launches an all-out attack against Corneria, using his new fleet of battleships and giant missiles launched from hidden bases to destroy the planet. General Pepper again calls upon the Star Fox team for help. Armed with new custom Arwings, a Mothership, and two new recruits (Miyu, a lynx, and Fay, a dog), the Star Fox team sets out to defend Corneria by destroying Andross's forces before they can inflict critical damage on the planet. Along the way, Star Fox must also combat giant boss enemies, bases on planets throughout the Lylat system, members of the Star Wolf team and finally Andross himself.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Star Fox 2 (SNES Classic Version)-image.png</image>
+    <releasedate>20170929T000000</releasedate>
+    <developer>Nintendo EAD</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Shooter / 3rd person</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Street Fighter II Turbo - Hyper Fighting.zip</path>
+    <name>Street Fighter II Turbo</name>
+    <desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
+
+This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting."
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo - Hyper Fighting-image.png</image>
+    <rating>0.95</rating>
+    <releasedate>19930801T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Fight</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Super Castlevania IV.zip</path>
+    <name>Super Castlevania IV</name>
+    <desc>Simon Belmont returns in the first Castlevania title to grace the SNES.  The console may be different, but the setup is very familiar: The place is Transylvania.  The villain is Count Dracula.
+
+Belmont has the classic Castlevania assortment of weapons (the famous whip, daggers, axes, fire bombs, boomerangs) at his disposal, and he gains strength and points by collecting various-sized hearts, coin purses, and pork chops. 
+
+Like most Castlevania games, Super Castlevania IV is a 2D side-scrolling action game. However, it is 2D with more depth than ever before. Parallax scrolling and rotating chambers are some of the "Mode 7" effects made possible by the SNES hardware.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Castlevania IV-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19911031T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Platform</genre>
+  </game>
+  <game>
+    <path>./Super Ghouls 'N Ghosts.zip</path>
+    <name>Super Ghouls'n Ghosts</name>
+    <desc>4 years after Arthur saved Princess PrinPrin from the evil demon Loki, a wonderful celebration is about to take place! Arthur and the Princess are engaged, and the wedding is to take place at last! Thousands from around the kingdom have come to witness this joyous event!
+
+But somewhere in the darkness of the forest lurks a horrible evil...
+
+Arthur and PrinPrin are spending a quiet moment locked in embrace, when she is suddenly snatched away by a huge demon! As her screams echo through the night, Arthur rushes from the castle, and pursues the demon to the graveyard, where he is greeted by hundreds of horrible ghouls and monsters!
+
+Now, this time, they've gone too far...Arthur is ready for them...
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Ghouls 'N Ghosts-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19911101T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Platform</genre>
+  </game>
+  <game>
+    <path>./Super Mario Kart.zip</path>
+    <name>Super Mario Kart</name>
+    <desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Mario Kart-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19920901T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Race 3rd Pers. view</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Super Mario RPG - Legend of the Seven Stars.zip</path>
+    <name>Super Mario RPG : Legend of the Seven Stars</name>
+    <desc>Super Mario RPG is a console RPG starring none other than Nintendo's popular character Mario. This game starts off like almost every other Mario game, with Bowser kidnapping Princess Toadstool. However, when Mario goes to Bowser's Keep to save her, a giant sword made by the evil Smithy crashes into the castle and sends Mario, the Princess, and Bowser flying to separate parts of the world.
+
+The game plays much like a traditional RPG: Mario and the members of his party gain experience points by defeating enemies. These experience points can increase the team's maximum number of hit points and flower points (magic points). The battles are also turn-based, but this time there are timed attacks and defenses. Timed attacks allow you to inflict more harm than normal to an enemy. Timed defenses, on the other hand, allow an enemy to inflict less harm than normal. You are only allowed to have three out of five team members on your party at a time. Mario is always in your party, regardless. Your team members can also purchase more weapons and abilities, along with better armor.
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Mario RPG - Legend of the Seven Stars-image.png</image>
+    <rating>0.9</rating>
+    <releasedate>19960513T000000</releasedate>
+    <developer>Square Enix</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Role playing games</genre>
+  </game>
+  <game>
+    <path>./Super Mario World 2 - Yoshi's Island.zip</path>
+    <name>Super Mario World 2 : Yoshi's Island</name>
+    <desc>The events of Yoshi's Island take place in the past. Mario was one of two twin brothers whom the evil Magikoopa Kamek tried to kidnap. Kamek kidnapped one of the brothers, but the second, Mario, fell down on Yoshi's island, where Yoshis live. The Yoshis decided to carry baby Mario and to bring him to his parents. But Kamek has sent troops and hordes of monsters to stop the Yoshis and to kidnap Mario.
+
+In the game, players control the differently colored Yoshis most of the time. Mario is a helpless baby unless a star that makes him invincible is collected. As a Yoshi, players can swallow enemies to make eggs; these eggs are used for attacking other enemies and activating switches. Yoshi can do a flutter jump to clear large gaps that a regular jump can't. Players can also pound the ground for attacks and also flipping certain switches. Additionally, Yoshis can transform into vehicles, such as a helicopter, submarine, or a train. If Mario is dismounted from a Yoshi, a countdown will start, and Yoshi must catch the baby before Kamek's servants kidnap it. When Mario is invincible, he doesn't ride on Yoshi and is immune to attack. While invincible, Mario can run up certain walls.
+</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island-image.png</image>
+    <rating>0.95</rating>
+    <releasedate>19951004T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+  </game>
+  <game>
+    <path>./Super Metroid.zip</path>
+    <name>Super Metroid</name>
+    <desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Metroid-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19940418T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action</genre>
+  </game>
+  <game>
+    <path>./Super Punch-Out!!.zip</path>
+    <name>Super Punch-Out!!</name>
+    <desc>Your dreams are finally going to come true! All the years of training...all for that day where you'd finally step into the ring, amidst the roar of the excited crowd, to square off against the best of the best...you tighten your fist and hear your gloves tighten with them...you take a step foward...the door opens before you...and the boxing ring beckons your name!
+
+16 world champs are here, with the same dream as you: to win the WVBA Championship! Welcome to the world of boxing, kid! Give 'em an uppercut or two for your fans!</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Punch-Out!!-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>19941001T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports</genre>
+  </game>
+  <game>
+    <path>./Super Mario World.zip</path>
+    <name>Super Mario World</name>
+    <desc>Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.
+
+Over 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Mario World-image.png</image>
+    <rating>0.85</rating>
+    <releasedate>19910813T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Platform</genre>
+    <players>1-2</players>
+    <playcount>1</playcount>
+    <lastplayed>20191227T125234</lastplayed>
+  </game>
+  <game>
+    <path>./Kirby's Dream Course.zip</path>
+    <name>Kirby's Dream Course</name>
+    <desc>Kirby's Dream Course is an innovative SNES game featuring everyone's favourite pink blob, Kirby. After his adventures in Dream Land we find him in this mini golf game where Kirby himself is the ball, and you must guide him around each hole using the sort of bar system that you see in most golf games. Where this game differs, however, is in the fact that you need to eliminate all on-screen enemies before you can guide Kirby into the hole and complete it. As per usual in golf games, the more strokes it takes you to complete the whole, the lower your score - so make sure you aim Kirby just right!
+
+You'll find eight courses and a total of sixty-four holes in the game, not including the final showdown with King Dedede, as well as an action-packed two-player mode.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Kirby's Dream Course-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19950201T000000</releasedate>
+    <developer>HAL Laboratory</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Sports</genre>
+    <players>1-2</players>
+    <playcount>1</playcount>
+    <lastplayed>20191227T175107</lastplayed>
+  </game>
+  <game>
+    <path>./Donkey Kong Country.zip</path>
+    <name>Donkey Kong Country</name>
+    <desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
+
+Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
+
+The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Donkey Kong Country-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19941125T000000</releasedate>
+    <developer>Rareware</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action</genre>
+    <players>1-2</players>
+    <playcount>1</playcount>
+    <lastplayed>20191228T001749</lastplayed>
+  </game>
+  <game>
+    <path>./SuperMetroidGenerated.smc</path>
+    <name>SuperMetroidGenerated</name>
+    <playcount>2</playcount>
+    <lastplayed>20191228T015629</lastplayed>
+  </game>
+  <game>
+    <path>./SuperMetroidGenerated2.smc</path>
+    <name>SuperMetroidGenerated2</name>
+    <playcount>2</playcount>
+    <lastplayed>20191228T023009</lastplayed>
+  </game>
+  <game>
+    <path>./SuperMetroidRandomized.smc</path>
+    <name>Super Metroid Varia Randomizer</name>
+    <desc>VARIA_Randomizer_MX9958851_regular_medium</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Metroid-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19940418T000000</releasedate>
+    <developer>Nintendo</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action</genre>
+    <playcount>1</playcount>
+    <lastplayed>20191229T001403</lastplayed>
+  </game>
+  <game>
+    <path>./Contra III - The Alien Wars.zip</path>
+    <name>Contra III : The Alien Wars</name>
+    <desc>It's time for revenge...
+
+The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
+
+The Alien Wars begin!!!</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Contra III - The Alien Wars-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>19920406T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shooter / Run and Gun</genre>
+    <players>1-2</players>
+    <playcount>5</playcount>
+    <lastplayed>20191227T175435</lastplayed>
+  </game>
+  <game>
+    <path>./Lemmings (USA).sfc</path>
+    <name>Lemmings</name>
+    <desc>Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Lemmings (USA)-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>19920302T000000</releasedate>
+    <developer>Sunsoft</developer>
+    <publisher>Psygnosis</publisher>
+    <genre>Puzzle-Game</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./Super Bomberman 3 (Europe).sfc</path>
+    <name>Super Bomberman 3</name>
+    <desc>The third bomberman game in the SNES series.  This game was an overhaul of the entire system of bombermans from before.  Again there are new levels and a new story but there are also a lot of new features.
+
+Super Bomberman 3 adds in 5 player support using a multitap and the extra controller slot.  The "revenge" or "miso bomber" feature was introduced in this game.  That is when a player dies they can still throw bombs in from the sidelines in an attempt to swap places with a player that is still alive.  Many new powerups were added in this game including the Kangaroo which in addition to giving a player and extra hit allowed them to have some extra ablity including jumping, laying rows of bombs, and high speed running.
+
+Players are also not limited to the traditional Bomberman.  There is a wide selection of different characters that the player can choose from.</desc>
+    <image>~/.emulationstation/downloaded_images/snes/Super Bomberman 3 (Europe)-image.png</image>
+    <rating>0.85</rating>
+    <releasedate>19950428T000000</releasedate>
+    <developer>Hudson</developer>
+    <publisher>Hudson</publisher>
+    <genre>Action</genre>
+    <players>1-5</players>
+  </game>
+</gameList>
