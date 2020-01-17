@@ -41,7 +41,7 @@ function install_randomizers() {
     cp -v "$md_build/icon.png" "$datadir/retropiemenu/icons/${PLUGIN_NAME}.png"
 
     cp -nv "$configdir/all/emulationstation/gamelists/retropie/gamelist.xml" "$gamelistxml"
-    if grep -vq "<path>./$scriptname</path>" "$gamelistxml"; then
+    if grep -vq "<path>./menu.sh</path>" "$gamelistxml"; then
         xmlstarlet ed -L -P -s "/gameList" -t elem -n "gameTMP" \
             -s "//gameTMP" -t elem -n path -v "./menu.sh" \
             -s "//gameTMP" -t elem -n name -v "Randomize" \
