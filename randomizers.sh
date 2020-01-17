@@ -66,7 +66,7 @@ function install_randomizers() {
     md_ret_files=(
         'menu.sh'
         'functions.sh'
-        "$scriptname"
+        'randomizers.sh'
     )
 }
 
