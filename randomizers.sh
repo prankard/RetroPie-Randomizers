@@ -43,7 +43,7 @@ function install_randomizers() {
     cp -nv "$configdir/all/emulationstation/gamelists/retropie/gamelist.xml" "$gamelistxml"
     if grep -vq "<path>./$scriptname</path>" "$gamelistxml"; then
         xmlstarlet ed -L -P -s "/gameList" -t elem -n "gameTMP" \
-            -s "//gameTMP" -t elem -n path -v "./$scriptname" \
+            -s "//gameTMP" -t elem -n path -v "./menu.sh" \
             -s "//gameTMP" -t elem -n name -v "Randomize" \
             -s "//gameTMP" -t elem -n desc -v "Randomize your games for more replay fun" \
             -s "//gameTMP" -t elem -n image -v "./icons/${PLUGIN_NAME}.png" \
@@ -63,7 +63,7 @@ function install_randomizers() {
     chown -R $user:$user "$datadir/retropiemenu"
 
     md_ret_files=(
-        'jslist'
+        'menu.sh'
         'functions.sh'
         "$scriptname"
     )
@@ -76,6 +76,7 @@ function remove_randomizers() {
 }
 
 function gui_randomizers() {
-    bash "$md_inst/${PLUGIN_NAME}.sh"
+    #bash "$md_inst/${PLUGIN_NAME}.sh"
+    bash "$md_inst/menu.sh"
 }
 
