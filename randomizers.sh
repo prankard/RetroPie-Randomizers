@@ -30,8 +30,9 @@ function build_randomizers() {
 }
 
 function install_randomizers() {
-    local scriptname="${PLUGIN_NAME}.sh"
+    local scriptname="menu.sh"
     local gamelistxml="$datadir/retropiemenu/gamelist.xml"
+    #local rpmenu_js_sh="$datadir/retropiemenu/$scriptname"
     local rpmenu_js_sh="$datadir/retropiemenu/$scriptname"
 
     ln -sfv "$md_inst/$scriptname" "$rpmenu_js_sh"
