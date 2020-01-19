@@ -4,6 +4,7 @@
 #readonly rootdir="/opt/retropie"
 #source "$rootdir/lib/inifuncs.sh"
 PARAMS_FILE=varia-parameters.ini
+CONFIG_FILE=config.ini
 
 parameter_names=()
 parameter_values=()
@@ -123,6 +124,38 @@ function main_menu() {
             break
         fi
     done
+}
+
+function install_menu() {
+    local options_games=()
+    
+    local randomizer_ids=()
+    local systems=()
+    local file_extensions=()
+    local game_names=()
+    local randomizer_names=()
+    
+    let i=0
+    while IFS=$'\n' read -r line_data; do
+        echo $line_data
+        IFS='|' read -ra PIPE_SPLIT <<< "$line_data"
+
+        randomizer_ids+=("${PIPE_SPLIT[0]}")
+        systems+=("${PIPE_SPLIT[1]}")
+        file_extensions+=("${PIPE_SPLIT[2]}")
+        game_names+=("${PIPE_SPLIT[3]}")
+        randomizer_names+=("${PIPE_SPLIT[4]}")
+        
+        options_games+=($i "${PIPE_SPLIT[4]} - ${PIPE_SPLIT[3]}")
+
+        ((++i))
+    done < $CONFIG
+
+    # Show dialog
+    cmd=(dialog \
+            --title " Select an option " \
+            --menu "Ranomizer Menu" 19 80 12)
+    choice=$("${cmd[@]}" "${options_games[@]}" 2>&1 >/dev/tty)
 }
 
 main_menu
