@@ -67,6 +67,8 @@ function install_randomizers() {
         'menu.sh'
         'functions.sh'
         'randomizers.sh'
+        'config.ini'
+        'games'
     )
 }
 

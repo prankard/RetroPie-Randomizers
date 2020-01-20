@@ -3,7 +3,7 @@
 ## Grab ini-reading functions from retropie
 #readonly rootdir="/opt/retropie"
 #source "$rootdir/lib/inifuncs.sh"
-PARAMS_FILE=varia-parameters.ini
+PARAMS_FILE=games/varia-parameters.ini
 CONFIG_FILE=config.ini
 
 parameter_names=()
@@ -149,7 +149,7 @@ function install_menu() {
         options_games+=($i "${PIPE_SPLIT[4]} - ${PIPE_SPLIT[3]}")
 
         ((++i))
-    done < $CONFIG
+    done < $CONFIG_FILE
 
     # Show dialog
     cmd=(dialog \
